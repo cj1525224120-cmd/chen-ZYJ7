@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ZYJ7 Turnout Machine Simulator",
+  "description": "An interactive educational tool demonstrating the hydraulic and electrical operation of the ZYJ7 railway turnout machine, featuring SVG animations, circuit node monitoring, and an AI signal engineering assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
